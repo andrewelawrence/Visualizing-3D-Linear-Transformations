@@ -9,7 +9,11 @@
 
     To visualize the properties of linear transformations on matrices. This is
     done through a plane (point) traveling through space. The plane's Roll,
-    Pitch, and Yaw can be adjusted through the command line prompt.
+    Pitch, and Yaw can be adjusted through the command line prompt. The program
+    will output an accurate rotation matrix, matrix-vector equation, and new
+    position in R^3.
+
+## Files
 
 ## Notes
 
