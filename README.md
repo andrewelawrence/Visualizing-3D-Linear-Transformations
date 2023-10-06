@@ -17,7 +17,7 @@
 
 ## Notes
 
-    9/28 : This project is undergoing development.
+    9/28 : This project has just begun and will be undergoing dev until the next update.
 
 ## Licenses
 
